@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "gui.pyw", line 458, in <module>
+  File "gui.pyw", line 145, in __init__
+  File "preview.pyo", line 31, in __init__
+  File "preview.pyo", line 57, in refresh
+  File "Image.pyo", line 1888, in open
+IOError: [Errno 2] No such file or directory: 'data/preview_invalid.png'
